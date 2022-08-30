@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SangameshwarBommena
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Coding, Retail Anlaystics and future Trends in AI,NLP Space
-reach me 
+- 💞️ I’m looking to collaborate on Coding, Retail Anlaystics and future Trends in AI,NLP Space 
+-
 
 <!---
 SangameshwarBommena/SangameshwarBommena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
